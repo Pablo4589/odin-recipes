@@ -1,0 +1,29 @@
+body {
+    background-color: skyblue;
+    text-align: center;
+    line-height: 25px;
+}
+
+h1 {
+    color:darkblue;
+    font-size: 35px;
+    text-decoration: underline;
+
+}
+
+img {
+    border: medium solid salmon;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+ol>li, ul>li {
+    list-style-position: inside;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+}
